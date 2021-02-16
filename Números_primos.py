@@ -1,3 +1,8 @@
+#Creador
+#Titulo
+#Encabezado
+
+
 # Capturar un número y decir si es un numero primo o no
 # Ejemplo: 88 No es un número primo
 # Ejemplo: 11 Si es un número primo
